@@ -1,0 +1,13 @@
+.brdbottom{
+    width: 70%;
+    
+}
+.brdtop{
+    width: 30%;
+    color: red;
+}
+.brdbottom, .brdtop{
+    background-color: #a8a8a83d;
+    height: 3px;
+    border-radius: 5px;
+}
