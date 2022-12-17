@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/movieTrending/static/css/main.d46b7edb.css",
+    "main.js": "/movieTrending/static/js/main.77d7b797.js",
+    "static/js/787.63c6617e.chunk.js": "/movieTrending/static/js/787.63c6617e.chunk.js",
+    "static/media/fa-solid-900.ttf": "/movieTrending/static/media/fa-solid-900.b48ad290d0335879a92b.ttf",
+    "static/media/fa-brands-400.ttf": "/movieTrending/static/media/fa-brands-400.f9ee61fab3c11e2f3ed3.ttf",
+    "static/media/fa-solid-900.woff2": "/movieTrending/static/media/fa-solid-900.66104b766c3d0462b3c5.woff2",
+    "static/media/fa-brands-400.woff2": "/movieTrending/static/media/fa-brands-400.e1a247a5ef41e1975742.woff2",
+    "static/media/fa-regular-400.ttf": "/movieTrending/static/media/fa-regular-400.abf801b7acb6705a15ad.ttf",
+    "static/media/fa-regular-400.woff2": "/movieTrending/static/media/fa-regular-400.639d2000c1ece92eaec8.woff2",
+    "static/media/fa-v4compatibility.ttf": "/movieTrending/static/media/fa-v4compatibility.f601162ae669f88823a3.ttf",
+    "static/media/fa-v4compatibility.woff2": "/movieTrending/static/media/fa-v4compatibility.745989aab0d69cab7e70.woff2",
+    "index.html": "/movieTrending/index.html",
+    "main.d46b7edb.css.map": "/movieTrending/static/css/main.d46b7edb.css.map",
+    "main.77d7b797.js.map": "/movieTrending/static/js/main.77d7b797.js.map",
+    "787.63c6617e.chunk.js.map": "/movieTrending/static/js/787.63c6617e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d46b7edb.css",
+    "static/js/main.77d7b797.js"
+  ]
+}
