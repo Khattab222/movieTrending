@@ -51,7 +51,7 @@ function getInputeData(e) {
 
 // call api when signup
 async  function getApi(userdata) {
-  let {data} = await axios.post('https://route-movies-api.vercel.app/signin',userdata);
+  let {data} = await axios.post('https://route-movies-api.vercel.app/signup',userdata);
  console.log(data.message)
   if (data.message === "success") {
     setloading(false)
